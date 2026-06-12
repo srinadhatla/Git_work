@@ -11,7 +11,7 @@ def calculate_bonus(experience,salary):
 
 
 def save_data(employee_data):
-    with open('data/employees.json','w') as file_obj:
+    with open('employee_system/data/employees.json','w') as file_obj:
         file_obj.write(json.dumps(employee_data))
     print("File data got saved")
 
@@ -19,7 +19,7 @@ def save_data(employee_data):
 def load_data():
     try:
         employee_data =  None
-        with open('data/employees.json','r') as file_obj:
+        with open('employee_system/data/employees.json','r') as file_obj:
             file_data = file_obj.read()
             if file_data:
                 employee_data =  json.loads(file_data)
