@@ -10,8 +10,7 @@ def department_list(request):
     else:
         departments = Department.objects.all()
 
-    return render(request, 'departments/list.html',
-                  {'departments': departments})
+    return render(request, 'departments/list.html',{'departments': departments})
 
 
 def add_department(request):
@@ -34,8 +33,7 @@ def update_department(request, id):
         department.save()
         return redirect('department_list')
 
-    return render(request, 'departments/update.html',
-                  {'department': department})
+    return render(request, 'departments/update.html',{'department': department})
 
 
 def delete_department(request, id):

@@ -5,6 +5,9 @@ from .models import Employee
 from departments.models import Department
 from .forms import EmployeeForm
 from django.contrib import messages
+from django.db.models import Q
+from django.core.paginator import Paginator
+
 
 
 
@@ -22,18 +25,35 @@ def employee_list(request):
 
     search = request.GET.get('search')
     department_id = request.GET.get('department')
-
+    designation = request.GET.get('designation')
+    status = request.GET.get('status')
     employees = Employee.objects.all()
-
+    print(employees)
+    print(department_id)
     if search:
-        employees = employees.filter(first_name__icontains=search)
+        employees = employees.filter(
+            Q(employee_id__icontains=search) |
+            Q(first_name__icontains=search) |
+            Q(email__icontains=search) |
+            Q(department__name__icontains=search)
+        )
 
     if department_id:
         employees = employees.filter(department_id=department_id)
+        
+    if designation:
+        employees = employees.filter(designation=designation)
+        
+    if status:
+        employees = employees.filter(status = status)
+        
+    paginator = Paginator(employees, 10)
+    page_number = request.GET.get('page')
+    page_obj = paginator.get_page(page_number)
 
     departments = Department.objects.all()
-
-    return render(request,'employees/list.html',{'employees': employees,'departments': departments})
+    print(employees)
+    return render(request,'employees/list.html',{'employees': employees,'page_obj': page_obj,'departments':departments,'search':search,'department_id':department_id,'designation':designation,'status':status})
 
 
 def add_employee(request):
@@ -47,7 +67,8 @@ def add_employee(request):
             first_name=request.POST['first_name'],
             email=request.POST['email'],
             salary=request.POST['salary'],
-            department_id=request.POST['department']
+            department_id=request.POST['department'],
+            profile_image=request.FILES.get('profile_image'),
         )
 
         return redirect('employee_list')
@@ -55,30 +76,30 @@ def add_employee(request):
     return render(request,'employees/add.html',{'departments': departments})
 
 
-def update_employee(request, id):
 
-    employee = get_object_or_404(Employee, id=id)
-    form = EmployeeForm(request.POST or None, request.FILES or None, instance=employee)
+def update_employee(request, pk):
+    employee = Employee.objects.get(id=pk)
 
-    if form.is_valid():
-        form.save()
-        messages.success(request, "Employee updated successfully")
-        return redirect('employee_list')
+    if request.method == 'POST':
+        form = EmployeeForm(request.POST,request.FILES,instance=employee)
 
-    return render(request, 'employees/employee_form.html', {'form': form})
+        if form.is_valid():
+            form.save()
+            return redirect('employee_list')
 
+    else:
+        form = EmployeeForm(instance=employee)
 
-def delete_employee(request, id):
+    return render(request,'employees/update.html',{'form': form})
 
-    employee = get_object_or_404(Employee, id=id)
+def delete_employee(request, pk):
+    employee = Employee.objects.get(id=pk)
 
-    if request.method == "POST":
-        employee.delete()
-        messages.success(request, "Employee deleted successfully")
-        return redirect('employee_list')
+    if employee.profile_image:
+        employee.profile_image.delete()
+        employee.save()
 
-    return render(request, 'employees/employee_confirm_delete.html', {'employee': employee})
-
+    return redirect('employee_detail', id=pk)
 
 def filter_employee(request, id):
     employees = Employee.objects.filter(department_id=id)
