@@ -1,0 +1,76 @@
+<h2>Employee List</h2>
+
+
+<form method = "GET">
+    <input type="text"
+           name="search"
+           placeholder="Search employee">
+
+    <select name="department">
+        <option value="">All Departments</option>
+
+        {% for dept in departments%}
+        <option value="{{dept.id}}">
+            {{dept.name}}
+        </option>
+        {% endfor %}
+    </select>
+    <select name="status">
+        <option value="">All Status</option>
+        <option value="Activate">Activate</option>
+        <option value="Inactive">Inactive</option>
+    </select>
+
+    <button type="submit">Filter</button>
+
+</form>
+
+
+
+<br>
+<table border="1">
+    <tr>
+        <th>Employee Id</th>
+        <th>Name</th>
+        <th>Emain</th>
+        <th>Department</th>
+    </tr>
+    {% for employee in employees %}
+    <tr>
+        <td>{{employee.employee_id}}</td>
+        <td>{{employee.first_name}}</td>
+        <td>{{employee.email}}</td>
+        <td>{{employee.department.name}}</td>
+    </tr>
+    {% empty %}
+    <tr>
+        <td colspan="4">No employees found.</td>
+    </tr>
+    {% endfor %}
+
+</table>
+</br>
+
+<div>
+    {% if page_obj.has_previous %}
+        <a href="?page=1">First</a>
+
+        <a href="?page={{ page_obj.previous_page_number }}">
+            Previous
+        </a>
+    {% endif %}
+
+    Page {{ page_obj.number }}
+    of
+    {{ page_obj.paginator.num_pages }}
+
+    {% if page_obj.has_next %}
+        <a href="?page={{ page_obj.next_page_number }}">
+            Next
+        </a>
+
+        <a href="?page={{ page_obj.paginator.num_pages }}">
+            Last
+        </a>
+    {% endif %}
+</div>
