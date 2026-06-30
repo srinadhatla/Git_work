@@ -52,4 +52,4 @@ development - main branch
 feature/employee-crud - CRUD feature branch
 
 Author:
-Srinadh Reddy Atla
+Atla Srinadh
