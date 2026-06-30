@@ -13,7 +13,8 @@ Django ORM CRUD Operations
 Django Admin Panel Customization
 Search & Filtering functionality
 Relationship handling (Foreign Key between Employee & Department)
-🛠️ Tech Stack
+
+Tech Stack :
 Python
 Django 
 PostgreSQL
@@ -31,7 +32,6 @@ One-to-Many Relationship
 Relational Database Design
 
 Project Structure :
-
 
 company_portal/
 │
@@ -56,12 +56,12 @@ company_portal/
 ├── requirements.txt
 └── README.md
 PostgreSQL Setup :
-Create Database
+Create Database :
 CREATE DATABASE employee_management;
-Create User
+Create User :
 CREATE USER employee_admin WITH PASSWORD 'password123';
 GRANT ALL PRIVILEGES ON DATABASE employee_management TO employee_admin;
-⚙️ Django Database Configuration
+Django Database Configuration
 
 In settings.py:
 
@@ -121,7 +121,8 @@ python manage.py migrate
 python manage.py createsuperuser
 6. Run Server
 python manage.py runserver
-🧪 Django ORM Operations
+
+Django ORM Operations
 Create Employee
 Employee.objects.create(
     employee_id="EMP001",
@@ -138,24 +139,27 @@ employee.salary = 70000
 employee.save()
 Delete Data
 employee.delete()
-🧾 Admin Panel Features
+
+Admin Panel Features
 Employee Management
 Department Management
 Search functionality
 Filters by Department
 Custom list display fields
-📚 Learning Outcomes
+
+Learning Outcomes
 Database design using relational models
 PostgreSQL integration with Django
 Django ORM CRUD operations
 Admin panel customization
 Real-world HR system structure
 Git feature branch workflow
-👨‍💻 Author
+
+Author
 
 Srinadh Reddy Atla
 
-📌 Git Workflow Used
+Git Workflow Used
 git checkout development
 git pull origin development
 git checkout -b feature/models-postgresql
