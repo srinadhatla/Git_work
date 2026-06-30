@@ -1,10 +1,9 @@
-# 🔐 Employee User Management System (Django HRMS)
+Employee User Management System (Django HRMS) :
 
 A Django-based **Authentication and Role-Based Access Control (RBAC)** system for managing employees, departments, and users with different roles like Admin, HR, Manager, and Employee.
 
----
 
-## 🚀 Project Overview
+Project Overview :
 
 This project demonstrates a complete authentication system including:
 
@@ -17,9 +16,9 @@ This project demonstrates a complete authentication system including:
 - Profile Management
 - Password Reset System
 
----
 
-## 🏗️ Project Structure
+
+Project Structure :
 company_portal/
 │
 ├── accounts/
@@ -45,60 +44,60 @@ company_portal/
 
 ---
 
-## 🔐 Features
+Features :
 
-### 👤 Authentication
+Authentication :
 - Secure login/logout system
 - Session management
 - Password hashing
 
-### 🧑 Custom User Model
+Custom User Model :
 - Email-based login
 - Employee ID (EMP001 format)
 - Phone number
 - Profile image
 - Role field (ADMIN, HR, MANAGER, EMPLOYEE)
 
-### 📝 Registration
+Registration :
 - Strong password validation
 - Unique email & employee ID
 - Role selection
 
-### 🔑 Login & Logout
+Login & Logout :
 - Session-based authentication
 - Redirect to role-based dashboard
 
-### 🛡️ RBAC (Role-Based Access Control)
+RBAC (Role-Based Access Control) :
 - Admin → Full access
 - HR → Employee management
 - Manager → Department access
 - Employee → Own profile only
 
-### 👥 Django Groups & Permissions
+Django Groups & Permissions :
 - Admin
 - HR
 - Manager
 - Employee
 - CRUD permissions for Employee model
-
-### 📊 Dashboards
+  
+Dashboards :
 - Admin Dashboard → statistics overview
 - HR Dashboard → employee management
 - Employee Dashboard → personal details
 
-### 🔒 Password Management
+Password Management :
 - Change password
 - Forgot password
 - Reset password via email token
 
-### 👤 Profile Management
+Profile Management :
 - Update profile image
 - Edit personal details
 - Change password
 
 ---
 
-## 🔁 Authentication Flow
+Authentication Flow :
 
 User Login
 ↓
@@ -112,16 +111,16 @@ Dashboard Redirect
 
 
 
-## ⚙️ Installation
+Installation :
 
-```bash
+
 git clone https://github.com/srinadhatla/Git_work.git
 
 cd Git_work
 
 python -m venv venv
 
-venv\Scripts\activate   # Windows
+venv\Scripts\activate  
 
 pip install -r requirements.txt
 
