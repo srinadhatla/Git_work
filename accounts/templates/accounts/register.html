@@ -1,0 +1,14 @@
+<h2>User Registation</h2>
+
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">
+        Register
+    </button>
+</form>
+{% if messages %}\
+    {% for messages in messages %}
+    <p>{{messages}}</p>
+    {% endfor %}
+{% endif %}
