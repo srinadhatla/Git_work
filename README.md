@@ -1,10 +1,9 @@
-# 🚀 Employee Management API System (Django REST Framework)
+Employee Management API System (Django REST Framework) :
 
 A complete **REST API-based Employee Management System** built using Django REST Framework (DRF) with JWT authentication, RBAC, filtering, pagination, and API documentation.
 
----
 
-## 📌 Project Overview
+Project Overview :
 
 This project demonstrates a full backend API system for HRMS including:
 
@@ -17,31 +16,31 @@ This project demonstrates a full backend API system for HRMS including:
 - Pagination
 - Swagger API Documentation
 
----
 
-## 🌐 Module 1: Introduction to REST APIs
 
-### What is REST?
+Module 1: Introduction to REST APIs
+
+What is REST?
 REST (Representational State Transfer) is an architecture used for communication between client and server.
 
-### Examples:
+Examples:
 - React ↔ Django API
 - Flutter ↔ Backend API
 - Mobile Apps ↔ Server
 
-### REST Principles:
+REST Principles:
 - Stateless communication
 - Client-Server architecture
 - Resource-based URLs
 - JSON responses
 - Standard HTTP methods (GET, POST, PUT, DELETE)
 
----
 
-## ⚙️ Module 2: Django REST Framework Setup
 
-### Installation
-```bash
+Module 2: Django REST Framework Setup
+
+Installation
+
 pip install djangorestframework
 pip install djangorestframework-simplejwt
 
@@ -51,7 +50,7 @@ INSTALLED_APPS = [
     "rest_framework",
 ]
 
-🔄 Module 3: Serializers
+Module 3: Serializers
 What is a Serializer?
 
 Converts:
@@ -66,7 +65,8 @@ class EmployeeSerializer(serializers.ModelSerializer):
     class Meta:
         model = Employee
         fields = "__all__"
-📡 Module 4: Function-Based APIs
+        
+Module 4: Function-Based APIs
 Example
 @api_view(['GET'])
 def employee_list(request):
@@ -79,7 +79,8 @@ GET /api/employees/{id}/
 POST /api/employees/
 PUT /api/employees/{id}/
 DELETE /api/employees/{id}/
-🧩 Module 5: Class-Based APIs
+
+Module 5: Class-Based APIs
 
 Use APIView for structured API handling:
 
@@ -87,7 +88,8 @@ GET
 POST
 PUT
 DELETE
-⚡ Module 6: Generic Views
+
+Module 6: Generic Views
 Learn:
 ListAPIView
 RetrieveAPIView
@@ -98,7 +100,8 @@ Benefit:
 Less code
 Faster development
 Clean architecture
-🔁 Module 7: ViewSets & Routers
+
+Module 7: ViewSets & Routers
 Example
 from rest_framework.viewsets import ModelViewSet
 
@@ -122,7 +125,8 @@ Response Example
     "access": "jwt_token",
     "refresh": "refresh_token"
 }
-🛡️ Module 9: Permissions (RBAC)
+
+Module 9: Permissions (RBAC)
 Roles:
 Admin → Full access
 HR → Create & update employees
@@ -131,7 +135,8 @@ Permissions:
 IsAuthenticated
 IsAdminUser
 Custom permissions
-🔎 Module 10: Filtering, Searching & Ordering
+
+Module 10: Filtering, Searching & Ordering
 Install
 pip install django-filter
 Features:
@@ -142,16 +147,19 @@ Example
 /api/employees/?search=ajay
 /api/employees/?department=IT
 /api/employees/?ordering=-salary
-📄 Module 11: Pagination
+
+Module 11: Pagination
 PageNumberPagination
 10 records per page
-📚 Module 12: API Documentation
+
+Module 12: API Documentation
 Install Swagger
 pip install drf-yasg
 URLs
 /swagger/
 /redoc/
-🏗️ Project Structure
+
+Project Structure
 company_portal/
 │
 ├── api/
@@ -167,34 +175,40 @@ company_portal/
 ├── departments/
 │
 └── requirements.txt
-🧠 Company-Level Assignment
+Company-Level Assignment
 
 Build a complete backend system:
 
-🔐 Authentication APIs
+Authentication APIs :
 Login
 Token refresh
-👨‍💼 Employee APIs
-CRUD operations
+Employee APIs
+
+CRUD operations :
 Search / Filter / Pagination
-🏢 Department APIs
+
+Department APIs :
 CRUD operations
-👤 User APIs
+
+User APIs :
 Profile management
-📘 API Documentation
+API Documentation
 Swagger
 Redoc
-🔐 Security
+
+Security :
 JWT Authentication
 Role-Based Access Control
-🚀 Tech Stack
+
+Tech Stack :
 Python
 Django
 Django REST Framework
 SimpleJWT
 Django Filter
 drf-yasg (Swagger)
-👨‍💻 Author
+
+Author :
 
 Srinadh Reddy Atla
 GitHub: https://github.com/srinadhatla
