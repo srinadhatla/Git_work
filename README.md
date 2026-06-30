@@ -156,9 +156,7 @@ Real-world HR system structure
 Git feature branch workflow
 
 Author
-
-Srinadh Reddy Atla
-
+Atla Srinadh
 Git Workflow Used
 git checkout development
 git pull origin development
