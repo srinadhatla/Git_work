@@ -31,6 +31,8 @@ One-to-Many Relationship
 Relational Database Design
 
 Project Structure :
+
+
 company_portal/
 │
 ├── manage.py
