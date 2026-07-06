@@ -1,0 +1,6 @@
+EMPLOYEE SUMMARY
+========================================
+
+Total Employees : 100
+Active Employees : 100
+Inactive Employees : 0
