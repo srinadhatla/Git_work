@@ -1,0 +1,3 @@
+Average Salary : 65291.6100000000
+Highest Salary : 99030
+lowest Salary : 26418
