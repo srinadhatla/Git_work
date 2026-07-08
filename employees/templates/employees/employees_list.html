@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee List</title>
+</head>
+<body>
+
+<h1>Employee List</h1>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Salary</th>
+    </tr>
+
+    {% for emp in page_obj %}
+    <tr>
+        <td>{{ emp.employee_id }}</td>
+        <td>{{ emp.first_name }}</td>
+        <td>{{ emp.department.name }}</td>
+        <td>{{ emp.salary }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+<br>
+
+<!-- Pagination Controls -->
+
+<div>
+
+    {% if page_obj.has_previous %}
+        <a href="?page=1">First</a>
+        <a href="?page={{ page_obj.previous_page_number }}">Previous</a>
+    {% endif %}
+
+    <span>
+        Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}
+    </span>
+
+    {% if page_obj.has_next %}
+        <a href="?page={{ page_obj.next_page_number }}">Next</a>
+        <a href="?page={{ page_obj.paginator.num_pages }}">Last</a>
+    {% endif %}
+
+</div>
+
+</body>
+</html>

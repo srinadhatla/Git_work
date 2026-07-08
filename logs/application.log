@@ -1,0 +1,306 @@
+Slow Response: /admin/employees/blockedip/add/ took 2197.27 ms
+Slow Response: /admin/ took 1950.03 ms
+Slow Response: / took 2498.17 ms
+Slow Response: /admin/ took 1755.52 ms
+Slow Response: /admin/employees/employee/ took 1230.20 ms
+Slow Response: /admin/employees/employee/ took 1424.03 ms
+Slow Response: /admin/jsi18n/ took 610.30 ms
+Slow Response: / took 538.38 ms
+Request: GET / by srinadh
+Slow Response: /admin/ took 865.02 ms
+Request: GET /admin/ by srinadh
+Request: GET /favicon.ico by srinadh
+Slow Response: /admin/employees/employee/ took 768.47 ms
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/add/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: POST /admin/employees/employee/add/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /admin/jiehfow by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Slow Response: /admin/employees/employee/ took 521.77 ms
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/101/change/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/audit_logs/auditlog/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/100/change/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Slow Response: / took 3282.29 ms
+Request: GET / by srinadh
+Slow Response: / took 2126.20 ms
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Slow Response: /admin/employees/employee/ took 593.97 ms
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/add/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: POST /admin/employees/employee/add/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/audit_logs/auditlog/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Slow Response: / took 1974.14 ms
+Request: GET / by srinadh
+Slow Response: /admin/ took 1703.62 ms
+Request: GET /admin/ by srinadh
+Slow Response: /favicon.ico took 623.10 ms
+Request: GET /favicon.ico by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /admin/dashboard/ by srinadh
+Request: GET /employees/dashboard/ by srinadh
+Request: GET /admin/dashboard/ by srinadh
+Request: GET /admin/dashboard/ by srinadh
+Request: GET /admin/dashboard/ by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET /employee_list by srinadh
+Request: GET /favicon.ico by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /employees by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /employees by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /departments by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /employees/search by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /favicon.ico by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/search/ by srinadh
+Slow Response: / took 6809.45 ms
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: /favicon.ico took 1151.75 ms
+Request: GET /favicon.ico by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: /admin/ took 624.39 ms
+Request: GET /admin/ by srinadh
+Request: GET / by srinadh
+Slow Response: / took 27517.82 ms
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: / took 684.22 ms
+Slow Response: / took 1162.58 ms
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /employee_list/ by srinadh
+Request: GET /dashboard/search by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /favicon.ico by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employee_list/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/employees by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: /employees/search/ took 1242.05 ms
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /departments by srinadh
+Request: GET /departments/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: / took 1180.38 ms
+Request: GET / by srinadh
+Request: GET /favicon.ico by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: /api/v1/auth/login/ took 5194.57 ms
+Request: GET /api/v1/auth/login/ by srinadh
+Slow Response: /api/v1/auth/login/ took 9543.57 ms
+Request: GET /api/v1/auth/login/ by srinadh
+Slow Response: /api/v1/auth/login/ took 11791.19 ms
+Request: GET /api/v1/auth/login/ by srinadh
+Request: GET /api/v1/auth/login/ by srinadh
+Slow Response: /api/v1/auth/login/ took 1278.65 ms
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1600.88 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET / by srinadh
+Slow Response: /admin/ took 2623.34 ms
+Request: GET /admin/ by srinadh
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1719.37 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET / by srinadh
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/change-password/ by AnonymousUser
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /api/v1/auth/change-password/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/forgot-password/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: GET /admin/ by srinadh
+Slow Response: / took 3601.71 ms
+Request: GET / by srinadh
+Request: GET /api/v1/auth/reser-password/ by srinadh
+Request: GET /favicon.ico by srinadh
+Slow Response: /api/v1/auth/reset-password/ took 2073.67 ms
+Request: GET /api/v1/auth/reset-password/ by AnonymousUser
+Request: POST /api/v1/auth/reset-password/ by AnonymousUser
+Request: GET / by srinadh
+Request: GET /api/v1/profile/ by srinadh
+Request: GET / by srinadh
+Request: GET /api/v1/profile/ by srinadh
+Request: GET /api/v1/profile/ by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /api/v1/auth/profile by srinadh
+Request: GET /api/v1/auth/profile/ by srinadh
+Request: GET /api/v1/auth/profile/ by srinadh
+Request: GET /api/v1/auth/profile/ by AnonymousUser
+Request: GET /api/v1/auth/profile/ by AnonymousUser
+Slow Response: / took 8292.96 ms
+Request: GET / by srinadh
+Request: GET /api/v1/employees/ by srinadh
+Request: GET /favicon.ico by srinadh
+Slow Response: /employees/ took 687.69 ms
+Request: GET /employees/ by srinadh
