@@ -1,0 +1,12 @@
+DEPARTMENT SUMMARY
+========================================
+
+IT : 14 Employee
+HR : 9 Employee
+Finanace : 13 Employee
+Marketing : 11 Employee
+Operations : 9 Employee
+Support : 8 Employee
+Admin : 10 Employee
+Security : 11 Employee
+Testing : 15 Employee
