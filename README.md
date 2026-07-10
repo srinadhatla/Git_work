@@ -154,8 +154,8 @@ POST /api/v1/auth/login/
 
 ```json
 {
-    "username":"admin",
-    "password":"password"
+    "username":"atlasrinadh",
+    "password":"@Comrade3"
 }
 ```
 
@@ -246,8 +246,8 @@ Request:
 
 ```json
 {
-    "current_password":"old_password",
-    "new_password":"new_password"
+    "current_password":"@Srinadh3",
+    "new_password":"@Comrade3"
 }
 ```
 
@@ -312,8 +312,8 @@ Response:
 ```json
 {
     "id":1,
-    "username":"admin",
-    "email":"admin@gmail.com"
+    "username":"atla",
+    "email":"atla@blackroth.in"
 }
 ```
 
