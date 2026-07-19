@@ -1,0 +1,6961 @@
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 286.53 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 829.44 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 65.48 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 808.22 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 241.49 ms
+
+
+URL : /admin/audit_logs/auditlog/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 61.24 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 13.75 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 31.67 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 168.53 ms
+
+
+URL : /admin/employees/blockedip/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 82.4 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 19.67 ms
+
+
+URL : /admin/employees/blockedip/add/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 2198.54 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 25.19 ms
+
+
+URL : /admin/employees/blockedip/add/
+Method : POST
+User : srinadh
+IP : 127.0.0.1
+Response Time : 72.29 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 14.27 ms
+
+
+URL : /admin/employees/blockedip/add/
+Method : POST
+User : srinadh
+IP : 127.0.0.1
+Response Time : 38.06 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 16.38 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 137.16 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 1950.65 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 132.23 ms
+
+
+URL : /admin/employees/blockedip/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 437.02 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 121.22 ms
+
+
+URL : /admin/employees/blockedip/add/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 350.6 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 17.14 ms
+
+
+URL : /admin/employees/blockedip/add/
+Method : POST
+User : srinadh
+IP : 127.0.0.1
+Response Time : 59.52 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 16.51 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 22.51 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 178.41 ms
+
+
+URL : /admin/employees/blockedip/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 72.42 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 25.84 ms
+
+
+URL : /admin/employees/blockedip/add/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 86.9 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 17.54 ms
+
+
+URL : /admin/employees/blockedip/add/
+Method : POST
+User : srinadh
+IP : 127.0.0.1
+Response Time : 149.78 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 2498.6 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 1755.81 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 1230.51 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 489.44 ms
+
+
+URL : /admin/employees/department/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 48.74 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 10.73 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 1777.85 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 610.44 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 539.07 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 865.24 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 450.1 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 768.87 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 212.56 ms
+
+
+URL : /admin/employees/employee/add/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 292.99 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 9.7 ms
+
+
+URL : /admin/employees/employee/add/
+Method : POST
+User : srinadh
+IP : 127.0.0.1
+Response Time : 201.92 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 280.11 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 11.09 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 11.19 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 154.94 ms
+
+
+URL : /admin/jiehfow
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 22.07 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 8.19 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 121.27 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 522.23 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 19.88 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 57.21 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 8.26 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 47.77 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 9.76 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 48.96 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 6.8 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 65.05 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 10.57 ms
+
+
+URL : /admin/employees/employee/101/change/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 158.86 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 11.22 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 62.04 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 62.98 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 6.78 ms
+
+
+URL : /admin/audit_logs/auditlog/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 187.2 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 8.27 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 384.98 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 16.39 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 407.84 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 9.75 ms
+
+
+URL : /admin/employees/employee/100/change/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 56.5 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 10.97 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 3282.92 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 2126.41 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 21.03 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 23.77 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 68.35 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 594.09 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 178.48 ms
+
+
+URL : /admin/employees/employee/add/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 78.45 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 5.38 ms
+
+
+URL : /admin/employees/employee/add/
+Method : POST
+User : srinadh
+IP : 127.0.0.1
+Response Time : 118.35 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 3.98 ms
+
+
+URL : /admin/audit_logs/auditlog/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 75.24 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 3.92 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 1975.0 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 1703.9 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 623.47 ms
+
+
+URL : /dashboard
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 10.03 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 14.82 ms
+
+
+URL : /admin/dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 20.66 ms
+
+
+URL : /employees/dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 10.49 ms
+
+
+URL : /admin/dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 16.56 ms
+
+
+URL : /admin/dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 16.43 ms
+
+
+URL : /admin/dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 20.7 ms
+
+
+URL : /dashboard
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 15.43 ms
+
+
+URL : /dashboard
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 8.95 ms
+
+
+URL : /dashboard
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 11.58 ms
+
+
+URL : /dashboard
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 11.07 ms
+
+
+URL : /dashboard
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 7.27 ms
+
+
+URL : /dashboard
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 9.37 ms
+
+
+URL : /dashboard
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 7.35 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 15.43 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 21.79 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 30.96 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 12.72 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 35.41 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 16.73 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 8.84 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 157.91 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 30.91 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 22.92 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 1.3 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 40.98 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 2.91 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 16.15 ms
+
+
+URL : /employee_list
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 11.9 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 5.82 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 57.97 ms
+
+
+URL : /employees
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 51.55 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 12.1 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 7.69 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 14.64 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 85.58 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 18.82 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 43.48 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 4.48 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Response Time : 15.04 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 14.97 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 13
+Response Time : 42.58 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 11.74 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 9.91 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 20.7 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 13
+Response Time : 44.34 ms
+
+
+URL : /employees
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 12.53 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 466.28 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 84.26 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 105.07 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 114.43 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 77.26 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 14.45 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 8.45 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 117.33 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 15.06 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 9.82 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 119.93 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 110.87 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 65.95 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 68.87 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 15.51 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 120.11 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 16.64 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 12.42 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 144.93 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 83.86 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 14.68 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 18.0 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 89.07 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 92.45 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 47.37 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 12.78 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 30.49 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 17.84 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 13
+Response Time : 146.29 ms
+
+
+URL : /departments
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 14.06 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 131.17 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 110.85 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 62.5 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 13
+Response Time : 47.33 ms
+
+
+URL : /employees/search
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 13.04 ms
+
+
+URL : /employees/search/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 17
+Response Time : 141.56 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.5 ms
+
+
+URL : /employees/search/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 32.22 ms
+
+
+URL : /employees/search/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 5.85 ms
+
+
+URL : /employees/search/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 4.49 ms
+
+
+URL : /employees/search/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 5.41 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6810.43 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 47.98 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 1151.94 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 62.78 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 51.8 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 53.15 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 51.66 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 624.66 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 59.77 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 9
+Response Time : 27518.52 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 9
+Response Time : 100.11 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 7
+Response Time : 157.89 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 7
+Response Time : 79.8 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 7
+Response Time : 137.43 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 7
+Response Time : 75.47 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 12
+Response Time : 67.9 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 12
+Response Time : 31.43 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 3.08 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 684.78 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 12
+Response Time : 1162.87 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 4.64 ms
+
+
+URL : /dashboard/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 3.27 ms
+
+
+URL : /employee_list/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 11.51 ms
+
+
+URL : /dashboard/search
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.85 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 81.22 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.79 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 19.56 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 5.16 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.52 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 3.97 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.37 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 4.79 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.5 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.62 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.41 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.16 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.23 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 4.01 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 4.66 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 5.12 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 8.48 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 5.32 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.14 ms
+
+
+URL : /employees/search/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 8
+Response Time : 362.93 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 477.22 ms
+
+
+URL : /employee_list/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 16.01 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 333.28 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 484.98 ms
+
+
+URL : /employees/employees
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 16.97 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 133.86 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 63.16 ms
+
+
+URL : /employees/search/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 1242.24 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 477.3 ms
+
+
+URL : /departments
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 17.27 ms
+
+
+URL : /departments/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 5
+Response Time : 484.32 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 55.71 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 51.97 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 58.73 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 48.11 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 1180.78 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 190.22 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 4.52 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 57.29 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 5194.8 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 9544.81 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 11791.65 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 48.03 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 1279.07 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 11.56 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 11.54 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 10.04 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 122.48 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 10.6 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 6.36 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 7.42 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 13.98 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 13.24 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 10.0 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 153.07 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 7.79 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 5.63 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 11.65 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 17.61 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 10.44 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 7.96 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 1601.11 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 102.32 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 2623.76 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 115.95 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 3
+Response Time : 1719.59 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 125.39 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 145.96 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 6.35 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 5.94 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 8.71 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 6.17 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 8.54 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 5.84 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 79.9 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 117.07 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 110.61 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 32.85 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 13.4 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 8.33 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 167.61 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 77.02 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 135.09 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 3601.93 ms
+
+
+URL : /api/v1/auth/reser-password/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 20.95 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 16.22 ms
+
+
+URL : /api/v1/auth/reset-password/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 2073.85 ms
+
+
+URL : /api/v1/auth/reset-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 7.6 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 146.13 ms
+
+
+URL : /api/v1/profile/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 21.6 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 55.28 ms
+
+
+URL : /api/v1/profile/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 18.81 ms
+
+
+URL : /api/v1/profile/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 17.52 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 50.77 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 124.89 ms
+
+
+URL : /api/v1/auth/profile
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 19.03 ms
+
+
+URL : /api/v1/auth/profile/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 19.36 ms
+
+
+URL : /api/v1/auth/profile/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 14.8 ms
+
+
+URL : /api/v1/auth/profile/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 102.27 ms
+
+
+URL : /api/v1/auth/profile/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 9.95 ms
+
+
+URL : /
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 10
+Response Time : 8293.59 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 29.32 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 13.66 ms
+
+
+URL : /employees/
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 687.88 ms
+
+
+URL : /admin
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 965.6 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 4.33 ms
+
+
+URL : /
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 8
+Response Time : 760.72 ms
+
+
+URL : /admin
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 4.48 ms
+
+
+URL : /
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 8
+Response Time : 47.28 ms
+
+
+URL : /
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 1.22 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 121.37 ms
+
+
+URL : /api/v1/documents/upload/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 5996.58 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 22.17 ms
+
+
+URL : /api/v1/documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 13.3 ms
+
+
+URL : /api/v1/documents/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 8.39 ms
+
+
+URL : /api/v1/documents/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 10.43 ms
+
+
+URL : /api/v1/documents/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 167.12 ms
+
+
+URL : /api/v1/documents/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 10.89 ms
+
+
+URL : /api/v1/documents/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 7.69 ms
+
+
+URL : /api/v1/documents/delete
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 24.91 ms
+
+
+URL : /api/v1/documents/1/download/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 5898.99 ms
+
+
+URL : /api/v1/documents/1/download/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 86.43 ms
+
+
+URL : /api/v1/documents/1/download/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 37.58 ms
+
+
+URL : /api/v1/documents/1/download/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 31.13 ms
+
+
+URL : /api/v1/documents/1/download/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 27.04 ms
+
+
+URL : /api/v1/documents/1/download/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 80.95 ms
+
+
+URL : /
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 8
+Response Time : 524.27 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 174.87 ms
+
+
+URL : /admin
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 12.38 ms
+
+
+URL : /admin/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 47.87 ms
+
+
+URL : /admin/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 1258.24 ms
+
+
+URL : /admin/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 1719.96 ms
+
+
+URL : /admin/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 1649.52 ms
+
+
+URL : /admin/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 1694.08 ms
+
+
+URL : /admin/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 1625.61 ms
+
+
+URL : /api/v1/employees/export/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 475.77 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : srinadh
+IP : 127.0.0.1
+Queries : 3
+Response Time : 160.04 ms
+
+
+URL : /api/v1/employees/import/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 6.81 ms
+
+
+URL : /api/v1/employees/csv/import/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 78.01 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 59.72 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 0.88 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 3.78 ms
+
+
+URL : /admin
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 43.53 ms
+
+
+URL : /admin/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 41.53 ms
+
+
+URL : /admin/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 207.39 ms
+
+
+URL : /favicon.ico
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 15.7 ms
+
+
+URL : /admin/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 802.23 ms
+
+
+URL : /admin/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 815.09 ms
+
+
+URL : /admin
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 17.29 ms
+
+
+URL : /admin/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 65.12 ms
+
+
+URL : /admin/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 53.57 ms
+
+
+URL : /admin/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 2
+Response Time : 779.44 ms
+
+
+URL : /
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 8
+Response Time : 88.52 ms
+
+
+URL : /admin/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 44.12 ms
+
+
+URL : /admin/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 46.76 ms
+
+
+URL : /admin/login/
+Method : POST
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 8
+Response Time : 799.88 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 4
+Response Time : 56.02 ms
+
+
+URL : /admin/employees/department/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 151.43 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 76.47 ms
+
+
+URL : /api/v1/employees/csv/import/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 347.68 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 7.72 ms
+
+
+URL : /api/token/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 63.16 ms
+
+
+URL : /api/v1/auth/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 20.39 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 172.53 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 9.3 ms
+
+
+URL : /api/v1/auth/login/
+Method : OPTIONS
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 8.92 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 5
+Response Time : 1989.81 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 654.76 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 3
+Response Time : 1621.46 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 197.47 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 3
+Response Time : 871.87 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 248.75 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 15.95 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 3
+Response Time : 1977.99 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 271.29 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 14.88 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 3
+Response Time : 1765.98 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 212.3 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 15.57 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 3
+Response Time : 1734.49 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 4
+Response Time : 1566.63 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 10.3 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 0.69 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 4.78 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 8.39 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 6.28 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 10.69 ms
+
+
+URL : /api/v1/auth/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 35.9 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 249.32 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 13.16 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 4
+Response Time : 837.53 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 0.9 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 248.96 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 4
+Response Time : 1590.59 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 97.28 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 4
+Response Time : 795.02 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 299.79 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 217.49 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 13.21 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 4
+Response Time : 1560.35 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 167.01 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 4
+Response Time : 1580.67 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 17.45 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 14.55 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 198.85 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 9.77 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 3
+Response Time : 28.01 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 591.91 ms
+
+
+URL : /api/v1/auth/login/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 14.33 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 4
+Response Time : 1930.47 ms
+
+
+URL : /api/v1/employees/1/profile-pdf/
+Method : GET
+User : atlasrinadh
+IP : 127.0.0.1
+Queries : 4
+Response Time : 25.23 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 4
+Response Time : 469.46 ms
+
+
+URL : /admin/employees/employeeprofile/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 392.44 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 94.47 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 4
+Response Time : 27.37 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 500.76 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 10.19 ms
+
+
+URL : /admin/employees/employee/5003/change/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 289.09 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.2 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 401.2 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 451.53 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 28.94 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 62.88 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 13.32 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 66.93 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.78 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 64.79 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.63 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 77.92 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.31 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 58.82 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 8.52 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 72.96 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 71.05 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 119.51 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 70.24 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 10
+Response Time : 100.28 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 439.36 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 4
+Response Time : 35.78 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 381.14 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 9.27 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 13
+Response Time : 178.36 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 10.64 ms
+
+
+URL : /admin/employees/employee/1/change/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 100.88 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 12.9 ms
+
+
+URL : /admin/employees/employee/1/change/
+Method : POST
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 11
+Response Time : 734.14 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.77 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 4
+Response Time : 202.57 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 524.38 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 11.91 ms
+
+
+URL : /admin/employees/employee/5003/change/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 152.89 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.79 ms
+
+
+URL : /admin/employees/employeeprofile/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 87.35 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 8.38 ms
+
+
+URL : /admin/employees/employeeprofile/5002/change/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 7
+Response Time : 688.83 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 10.15 ms
+
+
+URL : /admin/employees/employeedocument/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 26.49 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 9.66 ms
+
+
+URL : /admin/auth/user/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 7
+Response Time : 43.33 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 4.17 ms
+
+
+URL : /admin/auth/user/3/change/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 9
+Response Time : 119.49 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 11.21 ms
+
+
+URL : /admin/employees/employeeprofile/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 92.06 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.47 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 284.57 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.36 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 283.16 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 8.14 ms
+
+
+URL : /admin/employees/employee/
+Method : POST
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 8.7 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 258.56 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 9.06 ms
+
+
+URL : /admin/employees/employee/
+Method : POST
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 8.46 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 274.42 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 7.98 ms
+
+
+URL : /api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 267.35 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 832.82 ms
+
+
+URL : /api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 3
+Response Time : 916.05 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : admin
+IP : 127.0.0.1
+Queries : 0
+Response Time : 93.98 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : admin
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.19 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : admin
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.07 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : admin
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.0 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : admin
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.64 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : admin
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.24 ms
+
+
+URL : /admin
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 169.8 ms
+
+
+URL : /admin/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 4
+Response Time : 202.39 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 740.1 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 21.36 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 495.93 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 8.46 ms
+
+
+URL : /admin/employees/employee/102/change/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 246.3 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 11.37 ms
+
+
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 354.91 ms
+
+
+URL : /admin/employees/employee/1/change/
+Method : POST
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 11
+Response Time : 510.46 ms
+
+
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 8.32 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 286.06 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.31 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.38 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.79 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.82 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.45 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 14.89 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 61.56 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.35 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.97 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.35 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.04 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.78 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.0 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.65 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.58 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.47 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.44 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.62 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.68 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.82 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 62.92 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.74 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.0 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.04 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.44 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.51 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 26.42 ms
+
+
+URL : /api/v1/auth/login
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 56.95 ms
+
+
+URL : /api/v1/auth/login
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.47 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 125.18 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 46.36 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.38 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.42 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.23 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.69 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 17.62 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.86 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.69 ms
+
+
+URL : /api/v1/auth/login
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 21.4 ms
+
+
+URL : /api/v1/auth/login
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.36 ms
+
+
+URL : /api/v1/auth/login
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.28 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 11.87 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.64 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.75 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.84 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.62 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.48 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 12.83 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.52 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.46 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.37 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 15.58 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 7.52 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.94 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.71 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.54 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.48 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 10.83 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.37 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.55 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.81 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.78 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 795.57 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 740.62 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 769.88 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 790.13 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.6 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.55 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.74 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.55 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.05 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.41 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.72 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 784.64 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 772.75 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 786.84 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 782.31 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.17 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 761.07 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.75 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 803.6 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 12.37 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.91 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.67 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.56 ms
+
+
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.6 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.44 ms
+
+
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 9.49 ms
+
+
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.22 ms
+
+
+URL : /api/v1/auth/change_password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 28.21 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 39.97 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.57 ms
+
+
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 10.33 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.43 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.44 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 15.72 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.35 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 27.98 ms
+
+
+URL : /api/v1/auth/forgot-password
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.3 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.72 ms
+
+
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.07 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.68 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.37 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 20.6 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.4 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 35.29 ms
+
+
+URL : /api/v1/auth/forgot-password
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.28 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.54 ms
+
+
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.74 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.48 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.37 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.79 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.81 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.7 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.96 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.01 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.88 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.24 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.69 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.54 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 64.42 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 30.47 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 22.75 ms
+
+
+URL : /api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 12.53 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.07 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 32.17 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.75 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.05 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 62.51 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.56 ms
+
+
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.98 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.73 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.05 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1562.34 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 787.35 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.99 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 79.07 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.57 ms
+
+
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.04 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.72 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.27 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1533.79 ms
+
+
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 790.09 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.93 ms
+
+
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 63.52 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.61 ms
+
+
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.77 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.6 ms
+
+
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.02 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 27.77 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 21.87 ms
+
+
+URL : /api/v1/documents/upload/1/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.16 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.42 ms
+
+
+URL : /api/v1/documents/upload/1/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.26 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.4 ms
+
+
+URL : /api/v1/documents/upload/1/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.25 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 21.13 ms
+
+
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.78 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.93 ms
+
+
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.23 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.39 ms
+
+
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.21 ms
+
+
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 25.45 ms
+
+
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.81 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.86 ms
+
+
+URL : /api/v1/documents/upload/
+Method : POST
+User : employee
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.39 ms
+
+
+URL : /api/v1/api/employees/
+Method : GET
+User : hr
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.03 ms
+
+
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.26 ms
+
+2026-07-17 15:30:02,002 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 770.82 ms
+
+2026-07-17 15:30:02,747 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.79 ms
+
+2026-07-17 15:30:04,295 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 806.57 ms
+
+2026-07-17 15:30:05,188 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.4 ms
+
+2026-07-17 15:30:05,970 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.84 ms
+
+2026-07-17 15:30:07,521 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 30.1 ms
+
+2026-07-17 15:30:08,275 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.76 ms
+
+2026-07-17 15:30:09,021 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.52 ms
+
+2026-07-17 15:30:09,764 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.65 ms
+
+2026-07-17 15:30:10,511 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.43 ms
+
+2026-07-17 15:30:11,262 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 10.31 ms
+
+2026-07-17 15:30:13,771 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1747.91 ms
+
+2026-07-17 15:30:16,857 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 818.01 ms
+
+2026-07-17 15:30:18,070 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.22 ms
+
+2026-07-17 15:30:18,959 INFO request_logger 
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.65 ms
+
+2026-07-17 15:30:19,810 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.82 ms
+
+2026-07-17 15:30:20,674 INFO request_logger 
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 6.67 ms
+
+2026-07-17 15:30:21,472 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.49 ms
+
+2026-07-17 15:30:22,234 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.07 ms
+
+2026-07-17 15:30:24,668 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.63 ms
+
+2026-07-17 15:30:26,961 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.73 ms
+
+2026-07-17 15:30:29,161 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.46 ms
+
+2026-07-17 15:30:31,424 INFO request_logger 
+URL : /api/v1/documents/upload/
+Method : POST
+User : employee
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.15 ms
+
+2026-07-17 15:30:33,616 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : hr
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.0 ms
+
+2026-07-17 15:30:35,806 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.36 ms
+
+2026-07-17 15:41:03,422 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 759.13 ms
+
+2026-07-17 15:41:04,258 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.75 ms
+
+2026-07-17 15:41:05,874 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 844.18 ms
+
+2026-07-17 15:41:08,300 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1519.49 ms
+
+2026-07-17 15:41:11,044 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 760.02 ms
+
+2026-07-17 15:41:11,779 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.95 ms
+
+2026-07-17 15:41:12,588 INFO request_logger 
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 71.83 ms
+
+2026-07-17 15:41:13,350 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.69 ms
+
+2026-07-17 15:41:14,117 INFO request_logger 
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.09 ms
+
+2026-07-17 15:41:14,853 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.47 ms
+
+2026-07-17 15:41:15,594 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.01 ms
+
+2026-07-17 15:41:37,065 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 25.06 ms
+
+2026-07-17 15:41:39,263 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.69 ms
+
+2026-07-17 15:41:41,453 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.42 ms
+
+2026-07-17 15:41:43,868 INFO request_logger 
+URL : /api/v1/documents/upload/
+Method : POST
+User : employee
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.0 ms
+
+2026-07-17 15:41:46,043 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : hr
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.0 ms
+
+2026-07-17 15:41:48,223 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.28 ms
+
+2026-07-17 15:56:43,018 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 760.67 ms
+
+2026-07-17 15:56:43,802 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.75 ms
+
+2026-07-17 15:56:45,303 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 768.8 ms
+
+2026-07-17 15:56:46,157 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 11.24 ms
+
+2026-07-17 15:56:46,937 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 7.22 ms
+
+2026-07-17 15:56:47,724 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.85 ms
+
+2026-07-17 15:56:48,492 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.32 ms
+
+2026-07-17 15:56:50,076 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.78 ms
+
+2026-07-17 15:56:51,873 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.69 ms
+
+2026-07-17 15:56:53,560 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 9.62 ms
+
+2026-07-17 15:56:55,811 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1488.23 ms
+
+2026-07-17 15:56:58,055 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 725.3 ms
+
+2026-07-17 15:56:58,897 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.76 ms
+
+2026-07-17 15:57:00,136 INFO request_logger 
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.22 ms
+
+2026-07-17 15:57:01,364 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.49 ms
+
+2026-07-17 15:57:02,102 INFO request_logger 
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.39 ms
+
+2026-07-17 15:57:02,841 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.43 ms
+
+2026-07-17 15:57:03,586 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.02 ms
+
+2026-07-17 15:57:24,304 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 25.41 ms
+
+2026-07-17 15:57:26,488 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.68 ms
+
+2026-07-17 15:57:28,848 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.47 ms
+
+2026-07-17 15:57:31,197 INFO request_logger 
+URL : /api/v1/documents/upload/
+Method : POST
+User : employee
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.01 ms
+
+2026-07-17 15:57:33,418 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : hr
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.97 ms
+
+2026-07-17 15:57:35,608 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.24 ms
+
+2026-07-17 16:03:20,355 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 730.27 ms
+
+2026-07-17 16:03:21,106 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.79 ms
+
+2026-07-17 16:03:22,627 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 786.4 ms
+
+2026-07-17 16:03:23,497 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.53 ms
+
+2026-07-17 16:03:24,268 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 6.16 ms
+
+2026-07-17 16:03:25,038 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.73 ms
+
+2026-07-17 16:03:25,819 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.46 ms
+
+2026-07-17 16:03:26,585 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.05 ms
+
+2026-07-17 16:03:27,336 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.4 ms
+
+2026-07-17 16:03:28,118 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 11.63 ms
+
+2026-07-17 16:03:30,382 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1504.01 ms
+
+2026-07-17 16:03:32,633 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 724.63 ms
+
+2026-07-17 16:03:33,408 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.52 ms
+
+2026-07-17 16:03:34,182 INFO request_logger 
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.73 ms
+
+2026-07-17 16:03:34,916 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.52 ms
+
+2026-07-17 16:03:35,666 INFO request_logger 
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 7.24 ms
+
+2026-07-17 16:03:36,406 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.47 ms
+
+2026-07-17 16:03:37,150 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.32 ms
+
+2026-07-17 16:03:57,136 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 19.03 ms
+
+2026-07-17 16:03:59,566 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.66 ms
+
+2026-07-17 16:04:01,885 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.46 ms
+
+2026-07-17 16:04:04,086 INFO request_logger 
+URL : /api/v1/documents/upload/
+Method : POST
+User : employee
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.02 ms
+
+2026-07-17 16:04:06,269 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : hr
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.08 ms
+
+2026-07-17 16:04:08,453 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.23 ms
+
+2026-07-17 16:06:53,175 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2275.92 ms
+
+2026-07-17 16:06:55,067 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.45 ms
+
+2026-07-17 16:06:56,934 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 875.09 ms
+
+2026-07-17 16:06:57,804 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 10.65 ms
+
+2026-07-17 16:06:58,557 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.3 ms
+
+2026-07-17 16:06:59,307 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.66 ms
+
+2026-07-17 16:07:00,060 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.58 ms
+
+2026-07-17 16:07:01,074 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.62 ms
+
+2026-07-17 16:07:02,123 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.42 ms
+
+2026-07-17 16:07:02,888 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 10.66 ms
+
+2026-07-17 16:07:05,143 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1467.73 ms
+
+2026-07-17 16:07:07,354 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 736.23 ms
+
+2026-07-17 16:07:08,089 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.49 ms
+
+2026-07-17 16:07:08,865 INFO request_logger 
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.39 ms
+
+2026-07-17 16:07:09,613 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.52 ms
+
+2026-07-17 16:07:10,364 INFO request_logger 
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.78 ms
+
+2026-07-17 16:07:11,122 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.45 ms
+
+2026-07-17 16:07:11,858 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.03 ms
+
+2026-07-17 16:07:32,248 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 31.41 ms
+
+2026-07-17 16:07:34,815 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.69 ms
+
+2026-07-17 16:07:37,190 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.4 ms
+
+2026-07-17 16:07:39,534 INFO request_logger 
+URL : /api/v1/documents/upload/
+Method : POST
+User : employee
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.02 ms
+
+2026-07-17 16:07:41,758 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : hr
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.99 ms
+
+2026-07-17 16:07:43,941 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.27 ms
+
+2026-07-17 16:09:11,035 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 732.65 ms
+
+2026-07-17 16:09:11,774 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.79 ms
+
+2026-07-17 16:09:13,284 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 769.66 ms
+
+2026-07-17 16:09:14,121 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.34 ms
+
+2026-07-17 16:09:14,865 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.35 ms
+
+2026-07-17 16:09:15,625 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.69 ms
+
+2026-07-17 16:09:16,375 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.57 ms
+
+2026-07-17 16:09:17,117 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.62 ms
+
+2026-07-17 16:09:17,857 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.42 ms
+
+2026-07-17 16:09:18,636 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 12.47 ms
+
+2026-07-17 16:09:20,854 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1467.88 ms
+
+2026-07-17 16:09:23,068 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 729.19 ms
+
+2026-07-17 16:09:23,804 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.49 ms
+
+2026-07-17 16:09:24,606 INFO request_logger 
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.8 ms
+
+2026-07-17 16:09:25,674 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.47 ms
+
+2026-07-17 16:09:26,427 INFO request_logger 
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.95 ms
+
+2026-07-17 16:09:27,164 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.42 ms
+
+2026-07-17 16:09:27,910 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.04 ms
+
+2026-07-17 16:09:48,599 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 24.26 ms
+
+2026-07-17 16:09:50,786 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.63 ms
+
+2026-07-17 16:09:53,240 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.5 ms
+
+2026-07-17 16:09:55,434 INFO request_logger 
+URL : /api/v1/documents/upload/
+Method : POST
+User : employee
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.31 ms
+
+2026-07-17 16:09:57,626 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : hr
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.94 ms
+
+2026-07-17 16:09:59,830 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.23 ms
+
+2026-07-17 16:11:39,530 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 741.39 ms
+
+2026-07-17 16:11:40,278 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.8 ms
+
+2026-07-17 16:11:41,803 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 783.51 ms
+
+2026-07-17 16:11:42,636 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 7.4 ms
+
+2026-07-17 16:11:43,378 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.4 ms
+
+2026-07-17 16:11:44,135 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.82 ms
+
+2026-07-17 16:11:44,870 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.3 ms
+
+2026-07-17 16:11:45,606 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.62 ms
+
+2026-07-17 16:11:46,350 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.42 ms
+
+2026-07-17 16:11:47,148 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.75 ms
+
+2026-07-17 16:11:49,352 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1453.53 ms
+
+2026-07-17 16:11:51,562 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 730.14 ms
+
+2026-07-17 16:11:52,289 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.52 ms
+
+2026-07-17 16:11:53,027 INFO request_logger 
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.83 ms
+
+2026-07-17 16:11:53,768 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.47 ms
+
+2026-07-17 16:11:54,506 INFO request_logger 
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.92 ms
+
+2026-07-17 16:11:55,242 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.45 ms
+
+2026-07-17 16:11:55,975 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.08 ms
+
+2026-07-17 16:12:16,326 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 18.0 ms
+
+2026-07-17 16:12:18,535 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.71 ms
+
+2026-07-17 16:12:20,909 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.44 ms
+
+2026-07-17 16:12:23,209 INFO request_logger 
+URL : /api/v1/documents/upload/
+Method : POST
+User : employee
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.02 ms
+
+2026-07-17 16:12:25,479 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : hr
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.14 ms
+
+2026-07-17 16:12:27,671 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.25 ms
+
+2026-07-17 16:14:58,849 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 755.73 ms
+
+2026-07-17 16:14:59,609 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.8 ms
+
+2026-07-17 16:15:01,719 INFO request_logger 
+URL : /api/v1/auth/login/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1314.33 ms
+
+2026-07-17 16:15:02,703 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 8.8 ms
+
+2026-07-17 16:15:03,467 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : DELETE
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 10.44 ms
+
+2026-07-17 16:15:04,249 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.7 ms
+
+2026-07-17 16:15:05,007 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 5.05 ms
+
+2026-07-17 16:15:05,833 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : POST
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.84 ms
+
+2026-07-17 16:15:06,580 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.46 ms
+
+2026-07-17 16:15:07,342 INFO request_logger 
+URL : /api/v1/api/employees/1/
+Method : PUT
+User : testuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 10.14 ms
+
+2026-07-17 16:15:09,692 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1596.62 ms
+
+2026-07-17 16:15:12,141 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 808.94 ms
+
+2026-07-17 16:15:12,931 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.52 ms
+
+2026-07-17 16:15:13,842 INFO request_logger 
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.85 ms
+
+2026-07-17 16:15:15,151 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.6 ms
+
+2026-07-17 16:15:16,050 INFO request_logger 
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.18 ms
+
+2026-07-17 16:15:16,965 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.46 ms
+
+2026-07-17 16:15:17,789 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.63 ms
+
+2026-07-17 16:15:44,759 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 42.85 ms
+
+2026-07-17 16:15:47,597 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.79 ms
+
+2026-07-17 16:15:49,942 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.47 ms
+
+2026-07-17 16:15:52,130 INFO request_logger 
+URL : /api/v1/documents/upload/
+Method : POST
+User : employee
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.02 ms
+
+2026-07-17 16:15:54,320 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : hr
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.13 ms
+
+2026-07-17 16:15:56,532 INFO request_logger 
+URL : /documents/upload/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.24 ms
+
+2026-07-17 17:15:18,747 INFO request_logger 
+URL : /admin/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 4
+Response Time : 801.77 ms
+
+2026-07-17 17:15:21,556 INFO request_logger 
+URL : /admin/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 4
+Response Time : 36.95 ms
+
+2026-07-17 17:15:55,090 INFO request_logger 
+URL : /admin/employees/employee/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 110
+Response Time : 744.01 ms
+
+2026-07-17 17:15:55,502 INFO request_logger 
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 284.35 ms
+
+2026-07-17 17:16:08,111 INFO request_logger 
+URL : /admin/employees/employee/5003/change/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 264.52 ms
+
+2026-07-17 17:16:08,153 INFO request_logger 
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 6.5 ms
+
+2026-07-17 17:16:33,887 INFO request_logger 
+URL : /admin/employees/department/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 6
+Response Time : 43.5 ms
+
+2026-07-17 17:16:33,915 INFO request_logger 
+URL : /admin/jsi18n/
+Method : GET
+User : srinadhatla
+IP : 127.0.0.1
+Queries : 3
+Response Time : 10.46 ms
+
+2026-07-19 14:10:46,580 INFO request_logger 
+URL : /dashboard/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 119.63 ms
+
+2026-07-19 14:10:47,844 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 75.4 ms
+
+2026-07-19 14:10:48,806 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 0.47 ms
+
+2026-07-19 14:10:49,740 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 2.24 ms
+
+2026-07-19 14:10:50,582 INFO request_logger 
+URL : /employee/search/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 20.86 ms
+
+2026-07-19 14:17:24,804 INFO request_logger 
+URL : /dashboard/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 234.98 ms
+
+2026-07-19 14:17:25,627 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 7.57 ms
+
+2026-07-19 14:17:26,463 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 0.45 ms
+
+2026-07-19 14:17:27,266 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.46 ms
+
+2026-07-19 14:17:28,045 INFO request_logger 
+URL : /employees/search/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.72 ms
+
+2026-07-19 14:19:55,799 INFO request_logger 
+URL : /dashboard/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 22.1 ms
+
+2026-07-19 14:19:56,577 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 4.68 ms
+
+2026-07-19 14:19:57,364 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 1
+Response Time : 0.53 ms
+
+2026-07-19 14:19:58,116 INFO request_logger 
+URL : /api/v1/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.23 ms
+
+2026-07-19 14:19:58,966 INFO request_logger 
+URL : /api/v1/employees/search/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 52.11 ms
+
+2026-07-19 14:22:22,227 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1665.8 ms
+
+2026-07-19 14:22:24,533 INFO request_logger 
+URL : /api/v1/auth/change-password/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 768.88 ms
+
+2026-07-19 14:22:25,341 INFO request_logger 
+URL : /api/v1/api/employees/
+Method : GET
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.81 ms
+
+2026-07-19 14:22:26,200 INFO request_logger 
+URL : /api/v1/auth/forgot-password/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 91.6 ms
+
+2026-07-19 14:22:26,995 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.51 ms
+
+2026-07-19 14:22:27,772 INFO request_logger 
+URL : /api/v1/auth/logout/
+Method : POST
+User : jwtuser
+IP : 127.0.0.1
+Queries : 0
+Response Time : 3.87 ms
+
+2026-07-19 14:22:28,553 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 0.43 ms
+
+2026-07-19 14:22:29,335 INFO request_logger 
+URL : /api/v1/auth/refresh/
+Method : POST
+User : Anonymous
+IP : 127.0.0.1
+Queries : 0
+Response Time : 1.0 ms
+

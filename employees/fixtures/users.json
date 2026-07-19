@@ -1,0 +1,128 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$Pym23GOAawpaDgooJSEJfx$0xTmrnuClZtuJV23gtr/SBIvaYPHEfPtE/VeqbeEeEY=",
+        "last_login": "2026-07-01T13:00:07.324Z",
+        "is_superuser": true,
+        "username": "srinadh",
+        "first_name": "",
+        "last_name": "",
+        "email": "sri@blackroth.in",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-07-01T09:25:51.836Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$0fRzryv7f2ZHHzaVLYsQzT$G2qlNNN9NzeXAozUGW420IWVWQelrtN++lkX9pZFDS4=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "harry",
+        "first_name": "",
+        "last_name": "",
+        "email": "harry@blackroth.in",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-07-07T10:46:16.671Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$PnRxTbNYbuuOVnK3RzBZnU$BCEy6wuqbBO9EEo6TyvhXJBtI8+kmCsZtwRZaR9UEg0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "comrade",
+        "first_name": "",
+        "last_name": "",
+        "email": "comrade@blackroth.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-07T16:36:04.048Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$Bntaj0ENjpACfeIHoazqM7$t34xSUvsRZxs2JMewQlvphmO1TXp5shZLbny4osf0BY=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "sricastic",
+        "first_name": "",
+        "last_name": "",
+        "email": "sricastic@blackroth.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-07T16:37:18.996Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$GDcvwzWsxOPThtgjNHtFCE$6IqJ5dx76Yu6oR3N2Hh0qrFdyfIAwJCcZt2hzmPmfS8=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "employeeB",
+        "first_name": "",
+        "last_name": "",
+        "email": "b@test.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-07T16:38:28.480Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$tT1KT1jOJKGsKpa7XiA6qm$nGqmzKbnRtS56Oqe6WqbM0EtjyTb8gLbFu7es517CSs=",
+        "last_login": "2026-07-09T11:14:10.991Z",
+        "is_superuser": true,
+        "username": "srinadhatla",
+        "first_name": "",
+        "last_name": "",
+        "email": "atla@blackroth.in",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-07-09T11:08:57.106Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$Brd9nwMnZ8xi0JlqM23r6s$4iTH+NDwl2jUrfml/IylzkyPXUbHPHrJs400AGsNkdk=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "atlasrinadh",
+        "first_name": "",
+        "last_name": "",
+        "email": "atlasrinadh@blackroth.in",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-07-10T03:55:26.448Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

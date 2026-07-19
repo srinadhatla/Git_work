@@ -1,0 +1,969 @@
+Slow Response: /admin/employees/blockedip/add/ took 2197.27 ms
+Slow Response: /admin/ took 1950.03 ms
+Slow Response: / took 2498.17 ms
+Slow Response: /admin/ took 1755.52 ms
+Slow Response: /admin/employees/employee/ took 1230.20 ms
+Slow Response: /admin/employees/employee/ took 1424.03 ms
+Slow Response: /admin/jsi18n/ took 610.30 ms
+Slow Response: / took 538.38 ms
+Request: GET / by srinadh
+Slow Response: /admin/ took 865.02 ms
+Request: GET /admin/ by srinadh
+Request: GET /favicon.ico by srinadh
+Slow Response: /admin/employees/employee/ took 768.47 ms
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/add/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: POST /admin/employees/employee/add/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /admin/jiehfow by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Slow Response: /admin/employees/employee/ took 521.77 ms
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/101/change/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/audit_logs/auditlog/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/100/change/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Slow Response: / took 3282.29 ms
+Request: GET / by srinadh
+Slow Response: / took 2126.20 ms
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Slow Response: /admin/employees/employee/ took 593.97 ms
+Request: GET /admin/employees/employee/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/employees/employee/add/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: POST /admin/employees/employee/add/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Request: GET /admin/audit_logs/auditlog/ by srinadh
+Request: GET /admin/jsi18n/ by srinadh
+Slow Response: / took 1974.14 ms
+Request: GET / by srinadh
+Slow Response: /admin/ took 1703.62 ms
+Request: GET /admin/ by srinadh
+Slow Response: /favicon.ico took 623.10 ms
+Request: GET /favicon.ico by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /admin/dashboard/ by srinadh
+Request: GET /employees/dashboard/ by srinadh
+Request: GET /admin/dashboard/ by srinadh
+Request: GET /admin/dashboard/ by srinadh
+Request: GET /admin/dashboard/ by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET /employee_list by srinadh
+Request: GET /favicon.ico by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /employees by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /employees by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /departments by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET / by srinadh
+Request: GET /employees/search by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /favicon.ico by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/search/ by srinadh
+Slow Response: / took 6809.45 ms
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: /favicon.ico took 1151.75 ms
+Request: GET /favicon.ico by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: /admin/ took 624.39 ms
+Request: GET /admin/ by srinadh
+Request: GET / by srinadh
+Slow Response: / took 27517.82 ms
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: / took 684.22 ms
+Slow Response: / took 1162.58 ms
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /dashboard/ by srinadh
+Request: GET /employee_list/ by srinadh
+Request: GET /dashboard/search by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /favicon.ico by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employee_list/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /employees/employees by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: /employees/search/ took 1242.05 ms
+Request: GET /employees/search/ by srinadh
+Request: GET /employees/ by srinadh
+Request: GET /departments by srinadh
+Request: GET /departments/ by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: / took 1180.38 ms
+Request: GET / by srinadh
+Request: GET /favicon.ico by srinadh
+Request: GET / by srinadh
+Request: GET / by srinadh
+Slow Response: /api/v1/auth/login/ took 5194.57 ms
+Request: GET /api/v1/auth/login/ by srinadh
+Slow Response: /api/v1/auth/login/ took 9543.57 ms
+Request: GET /api/v1/auth/login/ by srinadh
+Slow Response: /api/v1/auth/login/ took 11791.19 ms
+Request: GET /api/v1/auth/login/ by srinadh
+Request: GET /api/v1/auth/login/ by srinadh
+Slow Response: /api/v1/auth/login/ took 1278.65 ms
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1600.88 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET / by srinadh
+Slow Response: /admin/ took 2623.34 ms
+Request: GET /admin/ by srinadh
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1719.37 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET / by srinadh
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/change-password/ by AnonymousUser
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /api/v1/auth/change-password/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/forgot-password/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: GET /admin/ by srinadh
+Slow Response: / took 3601.71 ms
+Request: GET / by srinadh
+Request: GET /api/v1/auth/reser-password/ by srinadh
+Request: GET /favicon.ico by srinadh
+Slow Response: /api/v1/auth/reset-password/ took 2073.67 ms
+Request: GET /api/v1/auth/reset-password/ by AnonymousUser
+Request: POST /api/v1/auth/reset-password/ by AnonymousUser
+Request: GET / by srinadh
+Request: GET /api/v1/profile/ by srinadh
+Request: GET / by srinadh
+Request: GET /api/v1/profile/ by srinadh
+Request: GET /api/v1/profile/ by srinadh
+Request: GET / by srinadh
+Request: GET /admin/ by srinadh
+Request: GET /api/v1/auth/profile by srinadh
+Request: GET /api/v1/auth/profile/ by srinadh
+Request: GET /api/v1/auth/profile/ by srinadh
+Request: GET /api/v1/auth/profile/ by AnonymousUser
+Request: GET /api/v1/auth/profile/ by AnonymousUser
+Slow Response: / took 8292.96 ms
+Request: GET / by srinadh
+Request: GET /api/v1/employees/ by srinadh
+Request: GET /favicon.ico by srinadh
+Slow Response: /employees/ took 687.69 ms
+Request: GET /employees/ by srinadh
+Slow Response: /admin took 964.88 ms
+Request: GET /admin by AnonymousUser
+Request: GET /favicon.ico by AnonymousUser
+Slow Response: / took 760.54 ms
+Request: GET / by AnonymousUser
+Request: GET /admin by AnonymousUser
+Request: GET / by AnonymousUser
+Request: GET / by AnonymousUser
+Request: GET /favicon.ico by AnonymousUser
+Slow Response: /api/v1/documents/upload/ took 5995.67 ms
+Request: GET /api/v1/documents/upload/ by AnonymousUser
+Request: GET /favicon.ico by srinadh
+Request: POST /api/v1/documents/upload/ by AnonymousUser
+Request: GET /api/v1/documents/ by AnonymousUser
+Request: POST /api/v1/documents/ by AnonymousUser
+Request: GET /api/v1/documents/ by AnonymousUser
+Request: POST /api/v1/documents/ by AnonymousUser
+Request: POST /api/v1/documents/ by AnonymousUser
+Request: GET /api/v1/documents/delete by srinadh
+Slow Response: /api/v1/documents/1/download/ took 5898.77 ms
+Request: GET /api/v1/documents/1/download/ by AnonymousUser
+Request: GET /api/v1/documents/1/download/ by AnonymousUser
+Request: GET /api/v1/documents/1/download/ by AnonymousUser
+Request: GET /api/v1/documents/1/download/ by AnonymousUser
+Request: GET /api/v1/documents/1/download/ by AnonymousUser
+Request: GET /api/v1/documents/1/download/ by AnonymousUser
+Slow Response: / took 523.26 ms
+Request: GET / by AnonymousUser
+Request: GET /favicon.ico by AnonymousUser
+Request: GET /admin by AnonymousUser
+Request: GET /admin/ by AnonymousUser
+Slow Response: /admin/login/ took 1257.84 ms
+Request: GET /admin/login/ by AnonymousUser
+Slow Response: /admin/login/ took 1719.73 ms
+Request: POST /admin/login/ by AnonymousUser
+Slow Response: /admin/login/ took 1649.08 ms
+Request: POST /admin/login/ by AnonymousUser
+Slow Response: /admin/login/ took 1693.87 ms
+Request: POST /admin/login/ by AnonymousUser
+Slow Response: /admin/login/ took 1625.40 ms
+Request: POST /admin/login/ by AnonymousUser
+Request: GET /api/v1/employees/export/ by AnonymousUser
+Request: GET /favicon.ico by srinadh
+Request: GET /api/v1/employees/import/ by AnonymousUser
+Request: GET /api/v1/employees/csv/import/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /admin by AnonymousUser
+Request: GET /admin/ by AnonymousUser
+Request: GET /admin/login/ by AnonymousUser
+Request: GET /favicon.ico by AnonymousUser
+Slow Response: /admin/login/ took 802.11 ms
+Request: POST /admin/login/ by AnonymousUser
+Slow Response: /admin/login/ took 814.96 ms
+Request: POST /admin/login/ by AnonymousUser
+Request: GET /admin by AnonymousUser
+Request: GET /admin/ by AnonymousUser
+Request: GET /admin/login/ by AnonymousUser
+Slow Response: /admin/login/ took 779.30 ms
+Request: POST /admin/login/ by AnonymousUser
+Request: GET / by AnonymousUser
+Request: GET /admin/ by AnonymousUser
+Request: GET /admin/login/ by AnonymousUser
+Slow Response: /admin/login/ took 799.73 ms
+Request: POST /admin/login/ by srinadhatla
+Request: GET /admin/ by srinadhatla
+Request: GET /admin/employees/department/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /api/v1/employees/csv/import/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/token/ by srinadhatla
+Request: GET /api/v1/auth/ by srinadhatla
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Request: OPTIONS /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1989.59 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 654.30 ms
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1621.27 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 871.73 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1977.76 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1765.65 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1734.29 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1566.39 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/auth/ by srinadhatla
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 837.37 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1590.38 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 794.84 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1560.07 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1580.41 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 590.80 ms
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 1930.22 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: GET /api/v1/employees/1/profile-pdf/ by atlasrinadh
+Request: GET /admin/ by srinadhatla
+Request: GET /admin/employees/employeeprofile/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/ by srinadhatla
+Slow Response: /admin/employees/employee/ took 500.50 ms
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/5003/change/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/1/change/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Slow Response: /admin/employees/employee/1/change/ took 733.79 ms
+Request: POST /admin/employees/employee/1/change/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/ by srinadhatla
+Slow Response: /admin/employees/employee/ took 524.22 ms
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/5003/change/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employeeprofile/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Slow Response: /admin/employees/employeeprofile/5002/change/ took 688.62 ms
+Request: GET /admin/employees/employeeprofile/5002/change/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employeedocument/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/auth/user/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/auth/user/3/change/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employeeprofile/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: POST /admin/employees/employee/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: POST /admin/employees/employee/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /api/employees/ by AnonymousUser
+Slow Response: /admin/employees/employee/ took 832.63 ms
+Request: GET /admin/employees/employee/ by srinadhatla
+Slow Response: /api/employees/ took 915.91 ms
+Request: GET /api/employees/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by admin
+Request: DELETE /api/v1/api/employees/1/ by admin
+Request: GET /api/v1/api/employees/1/ by admin
+Request: GET /api/v1/api/employees/ by admin
+Request: POST /api/v1/api/employees/ by admin
+Request: PUT /api/v1/api/employees/1/ by admin
+Request: GET /admin by srinadhatla
+Request: GET /admin/ by srinadhatla
+Slow Response: /admin/employees/employee/ took 739.62 ms
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/102/change/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: GET /admin/employees/employee/ by srinadhatla
+Slow Response: /admin/employees/employee/1/change/ took 510.33 ms
+Request: POST /admin/employees/employee/1/change/ by srinadhatla
+Request: GET /admin/jsi18n/ by srinadhatla
+Request: POST /api/v1/api/employees/ by AnonymousUser
+Request: DELETE /api/v1/api/employees/1/ by AnonymousUser
+Request: GET /api/v1/api/employees/1/ by AnonymousUser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by AnonymousUser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: PUT /api/v1/api/employees/1/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by AnonymousUser
+Request: DELETE /api/v1/api/employees/1/ by AnonymousUser
+Request: GET /api/v1/api/employees/1/ by AnonymousUser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by AnonymousUser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: PUT /api/v1/api/employees/1/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by AnonymousUser
+Request: DELETE /api/v1/api/employees/1/ by AnonymousUser
+Request: GET /api/v1/api/employees/1/ by AnonymousUser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by AnonymousUser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: PUT /api/v1/api/employees/1/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by testuser
+Request: DELETE /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/ by testuser
+Request: POST /api/v1/api/employees/ by testuser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: PUT /api/v1/api/employees/1/ by testuser
+Request: POST /api/v1/auth/login by AnonymousUser
+Request: POST /api/v1/auth/login by AnonymousUser
+Request: POST /api/v1/api/employees/ by testuser
+Request: DELETE /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/ by testuser
+Request: POST /api/v1/api/employees/ by testuser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: PUT /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/1/ by testuser
+Request: POST /api/v1/auth/login by AnonymousUser
+Request: POST /api/v1/auth/login by AnonymousUser
+Request: POST /api/v1/auth/login by AnonymousUser
+Request: POST /api/v1/api/employees/ by testuser
+Request: DELETE /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/ by testuser
+Request: POST /api/v1/api/employees/ by testuser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: PUT /api/v1/api/employees/1/ by testuser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by testuser
+Request: DELETE /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/ by testuser
+Request: POST /api/v1/api/employees/ by testuser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: PUT /api/v1/api/employees/1/ by testuser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 795.10 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 740.32 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 769.76 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 789.97 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by testuser
+Request: DELETE /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/ by testuser
+Request: POST /api/v1/api/employees/ by testuser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: PUT /api/v1/api/employees/1/ by testuser
+Slow Response: /api/v1/auth/login/ took 784.34 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 772.63 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 786.72 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 782.03 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 760.78 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Slow Response: /api/v1/auth/login/ took 803.46 ms
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/api/employees/ by testuser
+Request: DELETE /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/1/ by testuser
+Request: GET /api/v1/api/employees/ by testuser
+Request: POST /api/v1/api/employees/ by testuser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: PUT /api/v1/api/employees/1/ by testuser
+Request: POST /api/v1/auth/login/ by AnonymousUser
+Request: POST /api/v1/auth/change_password/ by AnonymousUser
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/logout/ by jwtuser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/logout/ by jwtuser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/logout/ by jwtuser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: GET /api/employees/ by AnonymousUser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/logout/ by jwtuser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Slow Response: /api/v1/auth/change-password/ took 1562.08 ms
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Slow Response: /api/v1/auth/change-password/ took 787.17 ms
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/logout/ by jwtuser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Slow Response: /api/v1/auth/change-password/ took 1533.52 ms
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Slow Response: /api/v1/auth/change-password/ took 789.93 ms
+Request: POST /api/v1/auth/change-password/ by jwtuser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/logout/ by jwtuser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: POST /api/v1/auth/refresh/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: POST /api/v1/documents/upload/1/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: POST /api/v1/documents/upload/1/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: POST /api/v1/documents/upload/1/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: POST /documents/upload/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: POST /documents/upload/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: POST /documents/upload/ by AnonymousUser
+Request: GET /api/v1/employees/ by AnonymousUser
+Request: POST /documents/upload/ by AnonymousUser
+Request: GET /api/v1/api/employees/ by AnonymousUser
+Request: POST /api/v1/documents/upload/ by employee
+Request: GET /api/v1/api/employees/ by hr
+Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 15:30:02,002 WARNING application_logger Slow Response: /api/v1/auth/login/ took 770.24 ms
+2026-07-17 15:30:02,002 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 15:30:02,747 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 15:30:04,295 WARNING application_logger Slow Response: /api/v1/auth/login/ took 806.33 ms
+2026-07-17 15:30:04,295 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 15:30:05,189 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 15:30:05,970 INFO application_logger Request: DELETE /api/v1/api/employees/1/ by testuser
+2026-07-17 15:30:07,521 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-17 15:30:08,275 INFO application_logger Request: GET /api/v1/api/employees/1/ by testuser
+2026-07-17 15:30:09,021 INFO application_logger Request: GET /api/v1/api/employees/ by testuser
+2026-07-17 15:30:09,764 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 15:30:10,511 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 15:30:11,262 INFO application_logger Request: PUT /api/v1/api/employees/1/ by testuser
+2026-07-17 15:30:13,770 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 1747.49 ms
+2026-07-17 15:30:13,771 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 15:30:16,857 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 817.84 ms
+2026-07-17 15:30:16,858 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 15:30:18,070 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 15:30:18,959 INFO application_logger Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+2026-07-17 15:30:19,810 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 15:30:20,674 INFO application_logger Request: POST /api/v1/auth/logout/ by jwtuser
+2026-07-17 15:30:21,472 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 15:30:22,235 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 15:30:24,668 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-17 15:30:26,961 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 15:30:29,161 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 15:30:31,424 INFO application_logger Request: POST /api/v1/documents/upload/ by employee
+2026-07-17 15:30:33,616 INFO application_logger Request: GET /api/v1/api/employees/ by hr
+2026-07-17 15:30:35,807 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 15:41:03,422 WARNING application_logger Slow Response: /api/v1/auth/login/ took 758.67 ms
+2026-07-17 15:41:03,422 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 15:41:04,258 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 15:41:05,873 WARNING application_logger Slow Response: /api/v1/auth/login/ took 843.99 ms
+2026-07-17 15:41:05,874 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 15:41:08,300 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 1519.29 ms
+2026-07-17 15:41:08,300 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 15:41:11,044 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 759.84 ms
+2026-07-17 15:41:11,044 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 15:41:11,779 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 15:41:12,588 INFO application_logger Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+2026-07-17 15:41:13,350 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 15:41:14,117 INFO application_logger Request: POST /api/v1/auth/logout/ by jwtuser
+2026-07-17 15:41:14,853 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 15:41:15,594 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 15:41:37,065 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-17 15:41:39,263 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 15:41:41,454 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 15:41:43,868 INFO application_logger Request: POST /api/v1/documents/upload/ by employee
+2026-07-17 15:41:46,043 INFO application_logger Request: GET /api/v1/api/employees/ by hr
+2026-07-17 15:41:48,223 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 15:56:43,017 WARNING application_logger Slow Response: /api/v1/auth/login/ took 759.95 ms
+2026-07-17 15:56:43,018 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 15:56:43,802 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 15:56:45,303 WARNING application_logger Slow Response: /api/v1/auth/login/ took 768.64 ms
+2026-07-17 15:56:45,303 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 15:56:46,158 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 15:56:46,937 INFO application_logger Request: DELETE /api/v1/api/employees/1/ by testuser
+2026-07-17 15:56:47,724 INFO application_logger Request: GET /api/v1/api/employees/1/ by testuser
+2026-07-17 15:56:48,492 INFO application_logger Request: GET /api/v1/api/employees/ by testuser
+2026-07-17 15:56:50,077 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 15:56:51,873 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 15:56:53,561 INFO application_logger Request: PUT /api/v1/api/employees/1/ by testuser
+2026-07-17 15:56:55,811 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 1488.05 ms
+2026-07-17 15:56:55,811 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 15:56:58,054 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 725.11 ms
+2026-07-17 15:56:58,055 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 15:56:58,898 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 15:57:00,137 INFO application_logger Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+2026-07-17 15:57:01,364 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 15:57:02,102 INFO application_logger Request: POST /api/v1/auth/logout/ by jwtuser
+2026-07-17 15:57:02,842 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 15:57:03,586 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 15:57:24,304 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-17 15:57:26,488 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 15:57:28,849 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 15:57:31,198 INFO application_logger Request: POST /api/v1/documents/upload/ by employee
+2026-07-17 15:57:33,418 INFO application_logger Request: GET /api/v1/api/employees/ by hr
+2026-07-17 15:57:35,608 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:03:20,355 WARNING application_logger Slow Response: /api/v1/auth/login/ took 729.99 ms
+2026-07-17 16:03:20,355 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:03:21,106 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:03:22,627 WARNING application_logger Slow Response: /api/v1/auth/login/ took 786.23 ms
+2026-07-17 16:03:22,628 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:03:23,497 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:03:24,268 INFO application_logger Request: DELETE /api/v1/api/employees/1/ by testuser
+2026-07-17 16:03:25,038 INFO application_logger Request: GET /api/v1/api/employees/1/ by testuser
+2026-07-17 16:03:25,819 INFO application_logger Request: GET /api/v1/api/employees/ by testuser
+2026-07-17 16:03:26,585 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:03:27,336 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:03:28,118 INFO application_logger Request: PUT /api/v1/api/employees/1/ by testuser
+2026-07-17 16:03:30,382 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 1503.82 ms
+2026-07-17 16:03:30,382 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:03:32,633 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 724.44 ms
+2026-07-17 16:03:32,633 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:03:33,408 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:03:34,182 INFO application_logger Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+2026-07-17 16:03:34,917 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:03:35,666 INFO application_logger Request: POST /api/v1/auth/logout/ by jwtuser
+2026-07-17 16:03:36,406 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:03:37,150 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:03:57,136 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-17 16:03:59,567 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:04:01,885 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:04:04,086 INFO application_logger Request: POST /api/v1/documents/upload/ by employee
+2026-07-17 16:04:06,269 INFO application_logger Request: GET /api/v1/api/employees/ by hr
+2026-07-17 16:04:08,453 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:06:53,164 WARNING application_logger Slow Response: /api/v1/auth/login/ took 2265.65 ms
+2026-07-17 16:06:53,175 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:06:55,067 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:06:56,934 WARNING application_logger Slow Response: /api/v1/auth/login/ took 874.94 ms
+2026-07-17 16:06:56,934 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:06:57,804 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:06:58,558 INFO application_logger Request: DELETE /api/v1/api/employees/1/ by testuser
+2026-07-17 16:06:59,307 INFO application_logger Request: GET /api/v1/api/employees/1/ by testuser
+2026-07-17 16:07:00,060 INFO application_logger Request: GET /api/v1/api/employees/ by testuser
+2026-07-17 16:07:01,075 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:07:02,123 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:07:02,888 INFO application_logger Request: PUT /api/v1/api/employees/1/ by testuser
+2026-07-17 16:07:05,143 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 1467.56 ms
+2026-07-17 16:07:05,143 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:07:07,354 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 736.07 ms
+2026-07-17 16:07:07,355 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:07:08,090 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:07:08,866 INFO application_logger Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+2026-07-17 16:07:09,613 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:07:10,364 INFO application_logger Request: POST /api/v1/auth/logout/ by jwtuser
+2026-07-17 16:07:11,122 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:07:11,858 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:07:32,248 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-17 16:07:34,815 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:07:37,190 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:07:39,534 INFO application_logger Request: POST /api/v1/documents/upload/ by employee
+2026-07-17 16:07:41,759 INFO application_logger Request: GET /api/v1/api/employees/ by hr
+2026-07-17 16:07:43,941 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:09:11,035 WARNING application_logger Slow Response: /api/v1/auth/login/ took 732.23 ms
+2026-07-17 16:09:11,035 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:09:11,774 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:09:13,283 WARNING application_logger Slow Response: /api/v1/auth/login/ took 769.48 ms
+2026-07-17 16:09:13,284 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:09:14,122 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:09:14,865 INFO application_logger Request: DELETE /api/v1/api/employees/1/ by testuser
+2026-07-17 16:09:15,625 INFO application_logger Request: GET /api/v1/api/employees/1/ by testuser
+2026-07-17 16:09:16,375 INFO application_logger Request: GET /api/v1/api/employees/ by testuser
+2026-07-17 16:09:17,118 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:09:17,857 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:09:18,636 INFO application_logger Request: PUT /api/v1/api/employees/1/ by testuser
+2026-07-17 16:09:20,853 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 1467.69 ms
+2026-07-17 16:09:20,854 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:09:23,068 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 728.94 ms
+2026-07-17 16:09:23,068 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:09:23,804 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:09:24,606 INFO application_logger Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+2026-07-17 16:09:25,674 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:09:26,427 INFO application_logger Request: POST /api/v1/auth/logout/ by jwtuser
+2026-07-17 16:09:27,164 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:09:27,910 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:09:48,599 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-17 16:09:50,786 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:09:53,240 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:09:55,434 INFO application_logger Request: POST /api/v1/documents/upload/ by employee
+2026-07-17 16:09:57,626 INFO application_logger Request: GET /api/v1/api/employees/ by hr
+2026-07-17 16:09:59,830 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:11:39,530 WARNING application_logger Slow Response: /api/v1/auth/login/ took 741.09 ms
+2026-07-17 16:11:39,530 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:11:40,278 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:11:41,803 WARNING application_logger Slow Response: /api/v1/auth/login/ took 783.31 ms
+2026-07-17 16:11:41,803 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:11:42,636 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:11:43,379 INFO application_logger Request: DELETE /api/v1/api/employees/1/ by testuser
+2026-07-17 16:11:44,135 INFO application_logger Request: GET /api/v1/api/employees/1/ by testuser
+2026-07-17 16:11:44,870 INFO application_logger Request: GET /api/v1/api/employees/ by testuser
+2026-07-17 16:11:45,606 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:11:46,350 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:11:47,149 INFO application_logger Request: PUT /api/v1/api/employees/1/ by testuser
+2026-07-17 16:11:49,352 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 1453.33 ms
+2026-07-17 16:11:49,352 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:11:51,562 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 729.97 ms
+2026-07-17 16:11:51,562 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:11:52,289 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:11:53,027 INFO application_logger Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+2026-07-17 16:11:53,768 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:11:54,506 INFO application_logger Request: POST /api/v1/auth/logout/ by jwtuser
+2026-07-17 16:11:55,242 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:11:55,975 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:12:16,326 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-17 16:12:18,535 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:12:20,909 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:12:23,209 INFO application_logger Request: POST /api/v1/documents/upload/ by employee
+2026-07-17 16:12:25,479 INFO application_logger Request: GET /api/v1/api/employees/ by hr
+2026-07-17 16:12:27,671 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:14:58,849 WARNING application_logger Slow Response: /api/v1/auth/login/ took 754.92 ms
+2026-07-17 16:14:58,850 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:14:59,609 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:15:01,719 WARNING application_logger Slow Response: /api/v1/auth/login/ took 1314.04 ms
+2026-07-17 16:15:01,719 INFO application_logger Request: POST /api/v1/auth/login/ by AnonymousUser
+2026-07-17 16:15:02,703 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:15:03,468 INFO application_logger Request: DELETE /api/v1/api/employees/1/ by testuser
+2026-07-17 16:15:04,250 INFO application_logger Request: GET /api/v1/api/employees/1/ by testuser
+2026-07-17 16:15:05,007 INFO application_logger Request: GET /api/v1/api/employees/ by testuser
+2026-07-17 16:15:05,834 INFO application_logger Request: POST /api/v1/api/employees/ by testuser
+2026-07-17 16:15:06,580 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:15:07,342 INFO application_logger Request: PUT /api/v1/api/employees/1/ by testuser
+2026-07-17 16:15:09,692 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 1596.47 ms
+2026-07-17 16:15:09,692 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:15:12,140 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 808.79 ms
+2026-07-17 16:15:12,141 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-17 16:15:12,931 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:15:13,842 INFO application_logger Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+2026-07-17 16:15:15,151 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:15:16,051 INFO application_logger Request: POST /api/v1/auth/logout/ by jwtuser
+2026-07-17 16:15:16,965 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:15:17,790 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-17 16:15:44,759 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-17 16:15:47,597 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 16:15:49,942 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-17 16:15:52,130 INFO application_logger Request: POST /api/v1/documents/upload/ by employee
+2026-07-17 16:15:54,320 INFO application_logger Request: GET /api/v1/api/employees/ by hr
+2026-07-17 16:15:56,533 INFO application_logger Request: POST /documents/upload/ by AnonymousUser
+2026-07-17 17:15:18,746 WARNING application_logger Slow Response: /admin/ took 801.25 ms
+2026-07-17 17:15:18,748 INFO application_logger Request: GET /admin/ by srinadhatla
+2026-07-17 17:15:21,556 INFO application_logger Request: GET /admin/ by srinadhatla
+2026-07-17 17:15:55,090 WARNING application_logger Slow Response: /admin/employees/employee/ took 743.80 ms
+2026-07-17 17:15:55,090 INFO application_logger Request: GET /admin/employees/employee/ by srinadhatla
+2026-07-17 17:15:55,502 INFO application_logger Request: GET /admin/jsi18n/ by srinadhatla
+2026-07-17 17:16:08,111 INFO application_logger Request: GET /admin/employees/employee/5003/change/ by srinadhatla
+2026-07-17 17:16:08,153 INFO application_logger Request: GET /admin/jsi18n/ by srinadhatla
+2026-07-17 17:16:33,887 INFO application_logger Request: GET /admin/employees/department/ by srinadhatla
+2026-07-17 17:16:33,916 INFO application_logger Request: GET /admin/jsi18n/ by srinadhatla
+2026-07-19 14:10:46,581 INFO application_logger Request: GET /dashboard/ by AnonymousUser
+2026-07-19 14:10:47,844 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-19 14:10:48,806 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-19 14:10:49,740 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-19 14:10:50,582 INFO application_logger Request: GET /employee/search/ by AnonymousUser
+2026-07-19 14:17:24,805 INFO application_logger Request: GET /dashboard/ by AnonymousUser
+2026-07-19 14:17:25,627 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-19 14:17:26,463 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-19 14:17:27,267 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-19 14:17:28,046 INFO application_logger Request: GET /employees/search/ by AnonymousUser
+2026-07-19 14:19:55,799 INFO application_logger Request: GET /dashboard/ by AnonymousUser
+2026-07-19 14:19:56,577 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-19 14:19:57,365 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-19 14:19:58,116 INFO application_logger Request: GET /api/v1/employees/ by AnonymousUser
+2026-07-19 14:19:58,966 INFO application_logger Request: GET /api/v1/employees/search/ by AnonymousUser
+2026-07-19 14:22:22,226 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 1665.03 ms
+2026-07-19 14:22:22,227 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-19 14:22:24,533 WARNING application_logger Slow Response: /api/v1/auth/change-password/ took 768.68 ms
+2026-07-19 14:22:24,533 INFO application_logger Request: POST /api/v1/auth/change-password/ by jwtuser
+2026-07-19 14:22:25,341 INFO application_logger Request: GET /api/v1/api/employees/ by AnonymousUser
+2026-07-19 14:22:26,201 INFO application_logger Request: POST /api/v1/auth/forgot-password/ by AnonymousUser
+2026-07-19 14:22:26,995 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-19 14:22:27,772 INFO application_logger Request: POST /api/v1/auth/logout/ by jwtuser
+2026-07-19 14:22:28,553 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser
+2026-07-19 14:22:29,335 INFO application_logger Request: POST /api/v1/auth/refresh/ by AnonymousUser

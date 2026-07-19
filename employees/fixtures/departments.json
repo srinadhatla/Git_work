@@ -1,0 +1,83 @@
+[
+{
+    "model": "employees.department",
+    "pk": 1,
+    "fields": {
+        "name": "IT",
+        "description": "",
+        "created_at": "2026-07-01T11:31:32.549Z"
+    }
+},
+{
+    "model": "employees.department",
+    "pk": 2,
+    "fields": {
+        "name": "HR",
+        "description": "",
+        "created_at": "2026-07-01T12:59:10.521Z"
+    }
+},
+{
+    "model": "employees.department",
+    "pk": 3,
+    "fields": {
+        "name": "Finanace",
+        "description": "Finanace Department",
+        "created_at": "2026-07-03T04:21:25.781Z"
+    }
+},
+{
+    "model": "employees.department",
+    "pk": 4,
+    "fields": {
+        "name": "Marketing",
+        "description": "Marketing Department",
+        "created_at": "2026-07-03T04:21:25.797Z"
+    }
+},
+{
+    "model": "employees.department",
+    "pk": 5,
+    "fields": {
+        "name": "Operations",
+        "description": "Operations Department",
+        "created_at": "2026-07-03T04:21:25.812Z"
+    }
+},
+{
+    "model": "employees.department",
+    "pk": 6,
+    "fields": {
+        "name": "Support",
+        "description": "Support Department",
+        "created_at": "2026-07-03T04:21:25.825Z"
+    }
+},
+{
+    "model": "employees.department",
+    "pk": 7,
+    "fields": {
+        "name": "Admin",
+        "description": "Admin Department",
+        "created_at": "2026-07-03T04:21:25.837Z"
+    }
+},
+{
+    "model": "employees.department",
+    "pk": 8,
+    "fields": {
+        "name": "Security",
+        "description": "Security Department",
+        "created_at": "2026-07-03T04:21:25.850Z"
+    }
+},
+{
+    "model": "employees.department",
+    "pk": 9,
+    "fields": {
+        "name": "Testing",
+        "description": "Testing Department",
+        "created_at": "2026-07-03T04:21:25.863Z"
+    }
+}
+]
